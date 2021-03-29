@@ -7,7 +7,7 @@
 
 * 相关：Selenium, Pandas, Tensorflow
 
-1. Crawl the basic movie data and audience comment data from Rotten [Tomatoes website](https://www.rottentomatoes.com/);
+1. Crawl the basic movie data and audience comment data from [Rotten Tomatoes website](https://www.rottentomatoes.com/);
 2. Extract the historical characteristics of audience viewing, and the number of movie ratings, feature engineering;
 3. Construct a DNN network for learning, serialize movies, and construct a scoring model;
 4. According to the audience's viewing history, new movie scores are predicted and recommended;
